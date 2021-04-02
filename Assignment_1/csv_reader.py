@@ -6,7 +6,7 @@ def read_data(file):
     Function which reads in the data set and return a pandas dataframe.
 
     Input:
-    - csv file
+    - file: csv file
 
     Output:
     - df: pandas dataframe
